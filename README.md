@@ -1,12 +1,12 @@
-# Waste2Earn - Garbage Sort&Collect Game 🗑️
+# W2pia - Garbage Sort&Collect Game 🗑️
 
 ![Waste2Earn Logo](logo.png)
 
-Welcome to Waste2Earn, an engaging game where you take on the role of a responsible citizen tasked with collecting falling garbage from the sky and sorting it into the right bins. Your goal is to promote environmental awareness and proper waste disposal! 🌍
+Welcome to W2pia, an engaging game where you take on the role of a responsible citizen tasked with collecting falling garbage from the sky and sorting it into the right bins. Your goal is to promote environmental awareness and proper waste disposal! 🌍
 
 ## Game Overview 🎮
 
-Trashformers is a 2D game developed using the Pygame library in Python. It combines fast-paced action with educational elements to deliver an entertaining experience while highlighting the importance of recycling. 🚀
+W2pia is a 2D game developed using the Pygame library in Python. It combines fast-paced action with educational elements to deliver an entertaining experience while highlighting the importance of recycling. 🚀
 
 ## How to Play 🕹️
 
@@ -46,11 +46,11 @@ To play Trashformers, follow these steps:
 
 ## Credits 🙌
 
-- Game Development: Roosa, Imad, Dennis
-- Artwork and Graphics: Imad
-- Background Music: Effy, Xiuming
+- Game Development:
+- Artwork and Graphics:
+- Background Music:
   
 
 
 
-Enjoy playing Trashformers and have fun saving the planet, one piece of garbage at a time! 🌟
+Enjoy playing W2pia and have fun saving the planet, one piece of garbage at a time! 🌟
