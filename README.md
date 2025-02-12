@@ -1,6 +1,6 @@
 # W2pia - Waste2Earn Game 🗑️
 
-![Waste2Earn Logo](logo.png)
+![W2pia Logo](logo.png)
 
 Welcome to W2pia, an engaging game where you take on the role of a responsible citizen tasked with collecting falling garbage from the sky and sorting it into the right bins. Your goal is to promote environmental awareness and proper waste disposal! 🌍
 
