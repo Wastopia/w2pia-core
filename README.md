@@ -1,4 +1,4 @@
-# W2pia - Garbage Sort&Collect Game 🗑️
+# W2pia - Waste2Earn Game 🗑️
 
 ![Waste2Earn Logo](logo.png)
 
